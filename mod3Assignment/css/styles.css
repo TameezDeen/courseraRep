@@ -16,12 +16,60 @@
 	color: white;
 	text-decoration: none;
 }
-/*.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 2px solid black;
-}*/
+.navbar-header button.navbar-toggle{
+	border: 2px solid black;
+}
+.icon-bar{
+	border: 2px solid black;
+}
 .navbar-nav{
 	font-size: 25px;
-  	text-align: center;
-  	margin: 0;
-  	padding: 0;
+  text-align: center;
+  margin: 0;
+  padding: 0;
 }
+
+.mainHeading {
+	color: black;
+	text-align: center;
+}
+
+li{
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.item{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: white;
+	border-bottom: 1px solid black;
+	color: black;
+	display: block;
+}
+
+.row{
+	width: 100%;
+}
+
+
+.box{
+	width: auto;
+	height: auto;
+	position: relative;
+	background-color: grey;
+	margin: 20px;
+	padding: 20px;
+}
+.item-heading h3{
+	margin-top: 0;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+}
+.container p{
+	text-align: justify;
+	color: black;
+}*/
