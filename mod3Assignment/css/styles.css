@@ -43,10 +43,12 @@ li{
 	padding: 0;
 	margin: 0;
 	width: 100%;
-	background-color: white;
-	border-bottom: 1px solid black;
+	background-color: #4a4437;
 	color: black;
 	display: block;
+}
+#nav-list a:hover{
+	color: white;
 }
 
 .row{
@@ -69,7 +71,7 @@ li{
 	font-weight: bold;
 	color: black;
 }
-.container p{
+.box p{
 	text-align: justify;
 	color: black;
-}*/
+}
