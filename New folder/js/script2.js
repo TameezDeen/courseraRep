@@ -6,5 +6,5 @@
 		console.log(greeting +deenGreeter.name); 
 	} 
 
-	window.deenGreeter = deenGreeter;
+	window.deenGreeter = deenGreeter; 
 }) (window);
